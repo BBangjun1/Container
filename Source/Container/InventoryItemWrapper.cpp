@@ -1,0 +1,2 @@
+#include "InventoryItemWrapper.h"
+
